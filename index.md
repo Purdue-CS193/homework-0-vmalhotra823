@@ -7,9 +7,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 # vidhita's first cs 193 homework
 ### favourite things about cs193
-   -i love the TAs,they are approachable 
-   -the class is fun 
-   -learning seems easier 
+   - i love the TAs,they are approachable 
+   - the class is fun 
+   - learning seems easier 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
